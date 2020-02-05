@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="NumberIDs">
+        <item>@id/zero</item>
+        <item>@id/one</item>
+        <item>@id/two</item>
+        <item>@id/three</item>
+        <item>@id/four</item>
+        <item>@id/five</item>
+        <item>@id/six</item>
+        <item>@id/seven</item>
+        <item>@id/eight</item>
+        <item>@id/nine</item>
+    </integer-array>
+</resources>
